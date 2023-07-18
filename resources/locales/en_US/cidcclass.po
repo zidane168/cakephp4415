@@ -1,0 +1,206 @@
+msgid "pending"
+msgstr "Pending"
+
+msgid "approved"
+msgstr "Approved"
+
+msgid "disapproved"
+msgstr "Disapproved"
+
+msgid "published"
+msgstr "Published"
+
+msgid "unpublished"
+msgstr "Unpublished"
+
+msgid "completed"
+msgstr "Completed"
+
+msgid "this_kid_had_registered_this_class"
+msgstr "this kid had been registered this class"
+
+msgid "register_class_success"
+msgstr "Register class successfully"
+
+msgid "each_monday"
+msgstr "Each Monday"
+
+msgid "each_tuesday"
+msgstr "Each Tuesday"
+
+msgid "each_wednesday"
+msgstr "Each Wednesday"
+
+msgid "each_thursday"
+msgstr "Each Thursday"
+
+msgid "each_friday"
+msgstr "Each Friday"
+
+msgid "each_saturday"
+msgstr "Each Saturday"
+
+msgid "each_sunday"
+msgstr "Each Sunday"
+  
+msgid "full_slot_already_current_slot_status"
+msgstr "{0} Full slot already, current/max {1}/{2}"
+
+msgid "full_slot_already"
+msgstr "Full slot already"
+
+msgid "target_audience"
+msgstr "Target audience"
+
+msgid "date_of_lessons"
+msgstr "Date of Lessons"
+
+msgid "min_max_students"
+msgstr "Min Max Students"
+
+msgid "number_of_lessons"
+msgstr "Number of Lessons"
+
+msgid "class_management"
+msgstr "Class or Event management"
+ 
+msgid "data_class_is_saved"
+msgstr "Data class is saved"
+
+msgid "student_register_class"
+msgstr "Student Register Class"
+
+msgid "student_register_classes"
+msgstr "Student Register Classes"
+
+msgid "add_student_register_class"
+msgstr "Add Student Register Class"
+
+msgid "edit_student_register_class"
+msgstr "Edit Student Register Class"   
+
+msgid "absent"
+msgstr "Absent"
+
+msgid "on_leave"
+msgstr "On Leave"
+
+msgid "privacy_policies"
+msgstr "Privacy Policies"
+
+msgid "privacy_policy"
+msgstr "Privacy Policy"
+
+msgid "add_privacy_policy"
+msgstr "Add Privacy Policy"
+
+msgid "edit_privacy_policy"
+msgstr "Edit Privacy Policy"
+
+msgid "capacity"
+msgstr "Capacity"
+
+msgid "add_student_trial"
+msgstr "Add Student Trial"
+ 
+msgid "student_attended_classes"
+msgstr "Student attended classes"
+
+msgid "edit_student_attended_class"
+msgstr "Edit Student Attended Class"
+ 
+msgid "class_already_published_cannot_edit"
+msgstr "Class already published cannot edit"
+
+msgid "hongkong_public_holiday"
+msgstr "HongKong public holiday"
+ 
+msgid "class_registered_day"
+msgstr "Class registerd day"
+
+msgid "target_audience"
+msgstr "Target audience"
+
+msgid "number_of_register"
+msgstr "Enrolled student no"
+
+msgid "paid"
+msgstr "Paid"
+
+msgid "unpaid"
+msgstr "Unpaid"
+
+msgid "are_attended"
+msgstr "are attended"
+
+msgid "approval"
+msgstr "Approval"
+
+msgid "from_cidc_class"
+msgstr "From Class"
+
+msgid "to_cidc_class"
+msgstr "To Class"
+
+msgid "circular"
+msgstr "Circular"
+
+msgid "non_circular"
+msgstr "Non Circular"
+ 
+msgid "from_date"
+msgstr "From date"
+
+msgid "to_date"
+msgstr "To date"
+
+msgid "cannot_change_info_payment_paid_already"
+msgstr "Cannot change info payment paid already"
+ 
+msgid "cannot_delete_it_because_this_program_already_exist_on_course"
+msgstr "Cannot delete because of this program already exist on course"
+
+msgid "cannot_delete_it_because_this_program_already_exist_on_class"
+msgstr "Cannot delete because of this program already exist on class"
+
+msgid "cannot_delete_it_because_this_course_already_exist_on_class"
+msgstr "Cannot delete because of this course already exist on class"
+
+msgid "cannot_adjust_maximum_of_students_less_than_exist_student_join"
+msgstr "Cannot adjust 'maximum of students' less than {0} student registering"
+
+msgid "invalid_class_name"
+msgstr "Invalid class {0}"
+
+msgid "exist_kid_had_registered_class"
+msgstr "Kid {0} had already registered class {1}"
+
+msgid "sick_leave_history"
+msgstr "Sick leave history"
+
+msgid "sick_leave_histories"
+msgstr "Sick leave histories"
+
+msgid "add_sick_leave_history"
+msgstr "Add sick leave history"
+
+msgid "edit_sick_leave_history"
+msgstr "Edit sick leave history"
+ 
+msgid "edit_sick_leave_history"
+msgstr "Edit sick leave history"
+ 
+msgid "is_attended"
+msgstr "is attended"
+ 
+msgid "not_attended"
+msgstr "Not attended"
+
+msgid "attended"
+msgstr "Attended"
+
+msgid "name"
+msgstr "Class's name"
+
+msgid "code"
+msgstr "Class's code"

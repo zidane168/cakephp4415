@@ -1,0 +1,24 @@
+
+msgid "role"
+msgstr "Role"
+
+msgid "roles"
+msgstr "Roles"
+
+msgid "add_role"
+msgstr "Add Role"
+
+msgid "edit_role"
+msgstr "Edit Role"
+
+msgid "manage_center"
+msgstr "Manage Center"
+
+msgid "permissions_management"
+msgstr "Permissions Management"
+
+msgid "rule"
+msgstr "Rule"
+
+msgid "action"
+msgstr "Action"

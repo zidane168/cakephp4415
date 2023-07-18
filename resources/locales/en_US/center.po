@@ -1,0 +1,233 @@
+msgid "unit"
+msgstr "Unit"
+
+msgid "program"
+msgstr "Program"
+
+msgid "programs"
+msgstr "Programs"
+
+msgid "add_program"
+msgstr "Add Program"
+
+msgid "edit_program"
+msgstr "Edit Program"
+
+msgid "center"
+msgstr "Center"
+
+msgid "centers"
+msgstr "Centers"
+
+msgid "add_center"
+msgstr "Add Center"
+
+msgid "edit_center"
+msgstr "Edit Center"
+
+msgid "center_name"
+msgstr "Center's name"
+
+msgid "course"
+msgstr "Course"
+
+msgid "courses"
+msgstr "Courses"
+
+msgid "add_course"
+msgstr "Add Course"
+
+msgid "edit_course"
+msgstr "Edit Course"
+
+msgid "age_range_from"
+msgstr "Age Range From"
+
+msgid "age_range_to"
+msgstr "Age Range To"
+
+msgid "school_management"
+msgstr "School Management"
+
+msgid "news"
+msgstr "News"
+
+msgid "add_news"
+msgstr "Add News"
+
+msgid "edit_news"
+msgstr "Edit News"
+
+msgid "cidc_classes"
+msgstr "Classes, Events and Rooms"
+
+msgid "cidc_class"
+msgstr "Class, Event and Room"
+
+msgid "add_cidc_classes"
+msgstr "Add Class"
+
+msgid "edit_cidc_class"
+msgstr "Edit Class"
+
+msgid "class_types"
+msgstr "Class Types"
+
+msgid "class_type"
+msgstr "Class Type"
+
+msgid "add_class_type"
+msgstr "Add Class Type"
+
+msgid "edit_class_type"
+msgstr "Edit Class Type"
+
+msgid "status"
+msgstr "Status"
+
+msgid "fee"
+msgstr "Fee"
+
+msgid "target_audience_from"
+msgstr "Target Audience From"
+
+msgid "target_audience_to"
+msgstr "Target Audience To"
+
+msgid "target_unit"
+msgstr "Target Unit"
+
+msgid "minimum_of_students"
+msgstr "Minium Of Students"
+
+msgid "maximum_of_students"
+msgstr "Maximum Of Students"
+
+msgid "date_of_lesson"
+msgstr "Date Of Lesson"
+
+msgid "number_of_weeks"
+msgstr "Number Of Weeks"
+
+msgid "start_date"
+msgstr "Start Date"
+
+msgid "end_date"
+msgstr "End Date"
+
+msgid "start_time"
+msgstr "Start Time"
+
+msgid "end_time"
+msgstr "End Time"
+
+msgid "latitude"
+msgstr "Latitude"
+
+msgid "longitude"
+msgstr "Longtitude"
+
+msgid "sort"
+msgstr "Sort"
+
+msgid "program"
+msgstr "Program"
+
+msgid "programs"
+msgstr "Programs"
+
+msgid "level"
+msgstr "Level"
+
+msgid "banner_color"
+msgstr "Banner Color"
+
+msgid "title_color"
+msgstr "Title Color"
+
+msgid "background_color"
+msgstr "Background Color"
+
+msgid "add_program"
+msgstr "Add Program"
+
+msgid "edit_program"
+msgstr "Edit Program"
+  
+msgid "age_range_from"
+msgstr "Age Range From"
+
+msgid "age_range_to"
+msgstr "Age Range Tos"
+
+msgid "age_range_from"
+msgstr "Age Range From"
+ 
+msgid "title"
+msgstr "Title"
+
+msgid "publish_date"
+msgstr "Publish Date"
+
+msgid "fee"
+msgstr "Fee"
+
+msgid "cidc_classes"
+msgstr "Classes"
+
+msgid "cidc_class"
+msgstr "Class"
+
+msgid "add_cidc_class"
+msgstr "Add Class"
+
+msgid "edit_cidc_class"
+msgstr "Edit Class" 
+
+msgid "number_of_week"
+msgstr "Number Of Week"
+
+msgid "months"
+msgstr "Months"
+
+msgid "years"
+msgstr "Years"
+
+msgid "target_audience"
+msgstr "Target Audience"
+
+msgid "phone_us"
+msgstr "Phone us"
+
+msgid "whatsapp"
+msgstr "Fax us"
+
+msgid "visit_us"
+msgstr "Visit us"
+
+msgid "mail_us"
+msgstr "Mail us"
+
+msgid "code"
+msgstr "Code"
+
+msgid "course_id"
+msgstr "Course id"
+
+msgid "course_id"
+msgstr "Course id"
+
+msgid "course_name"
+msgstr "Course name"
+
+msgid "course_type"
+msgstr "Course type"
+
+msgid "course_types"
+msgstr "Course types"
+
+msgid "add_course_type"
+msgstr "Add course type"
+
+msgid "edit_course_type"
+msgstr "Edit course type"

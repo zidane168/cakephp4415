@@ -1,0 +1,203 @@
+msgid "pending"
+msgstr "待定中"
+
+msgid "approved"
+msgstr "已成班"
+
+msgid "disapproved"
+msgstr "不成班"
+
+msgid "completed"
+msgstr "已完成"
+
+msgid "this_kid_had_registered_this_class"
+msgstr "這兒童已登記"
+
+msgid "register_class_success"
+msgstr "報名成功"
+
+msgid "each_monday"
+msgstr "每逢週一"
+
+msgid "each_tuesday"
+msgstr "每逢週二"
+
+msgid "each_wednesday"
+msgstr "每逢週三"
+
+msgid "each_thursday"
+msgstr "每逢週四"
+
+msgid "each_friday"
+msgstr "每逢週五"
+
+msgid "each_saturday"
+msgstr "每逢週六"
+
+msgid "each_sunday"
+msgstr "每逢週日"
+  
+msgid "full_slot_already_current_slot_status"
+msgstr "{0}名額已滿， 已報名/最多名額 {1}/{2}"
+
+msgid "full_slot_already"
+msgstr "名額已滿"
+
+msgid "published"
+msgstr "已開班"
+
+msgid "unpublished"
+msgstr "沒開班"
+
+msgid "target_audience"
+msgstr "目標人群"
+
+msgid "date_of_lessons"
+msgstr "上課日期"
+
+msgid "min_max_students"
+msgstr "最少最多學生"
+
+msgid "number_of_lessons"
+msgstr "課堂數量"
+
+msgid "class_management"
+msgstr "班級管理"
+  
+msgid "data_class_is_saved"
+msgstr "班級質料已儲存" 
+
+msgid "student_register_class"
+msgstr "學生登記表"
+
+msgid "student_register_classes"
+msgstr "學生登記表一覽"
+
+msgid "add_student_register_class"
+msgstr "新增學生登記表"
+ 
+msgid "edit_student_register_class"
+msgstr "编辑學生登記表"
+   
+msgid "absent"
+msgstr "沒有請假"
+
+msgid "on_leave"
+msgstr "休假" 
+
+msgid "privacy_policies"
+msgstr "穩私政策資料"
+
+msgid "privacy_policy"
+msgstr "穩私政策資料"
+
+msgid "add_privacy_policy"
+msgstr "新增穩私政策資料"
+
+msgid "edit_privacy_policy"
+msgstr "編輯穩私政策資料"
+
+msgid "student_attended_classes"
+msgstr "上課時間表一覽"
+
+msgid "class_already_published_cannot_edit"
+msgstr "已發布的課程無法編輯" 
+
+msgid "capacity"
+msgstr "容量"
+
+msgid "add_student_trial"
+msgstr "添加學生試用版"
+ 
+msgid "hongkong_public_holiday"
+msgstr "香港公眾假期"
+ 
+msgid "class_registered_day"
+msgstr "班級已註冊日期"
+ 
+msgid "target_audience"
+msgstr "目標人群"
+ 
+msgid "number_of_register"
+msgstr "註冊人數"
+
+msgid "paid"
+msgstr "已付錢"
+
+msgid "unpaid"
+msgstr "未付錢"
+
+msgid "are_attended"
+msgstr "登記"
+
+msgid "approval"
+msgstr "通過"
+
+msgid "from_cidc_class"
+msgstr "請假班別"
+
+msgid "to_cidc_class"
+msgstr "補堂班別"
+
+msgid "circular"
+msgstr "循環班"
+
+msgid "non_circular"
+msgstr "非循環班"
+
+msgid "from_date"
+msgstr "開始日期"
+
+msgid "to_date"
+msgstr "結束日期"
+
+msgid "cannot_change_info_payment_paid_already"
+msgstr "無法更改已支付的信息"
+
+msgid "cannot_delete_it_because_this_program_already_exist_on_course"
+msgstr "無法刪除，此課程已存在課堂中"
+
+msgid "cannot_delete_it_becautanse_this_program_already_exist_on_class"
+msgstr "無法刪除，此課程已存在班中"
+
+msgid "cannot_delete_it_because_this_course_already_exist_on_class"
+msgstr "無法刪除，此課堂已存在班中"
+
+msgid "cannot_adjust_maximum_of_students_less_than_exist_student_join"
+msgstr "無法調整'最多學生'少於 {0} 學生註冊"
+
+msgid "invalid_class_name"
+msgstr "班{0}不存在"
+
+msgid "exist_kid_had_registered_class"
+msgstr "小朋友 {0} 已註冊了課程 {1}"
+
+msgid "sick_leave_history"
+msgstr "病假紀錄資料"
+
+msgid "sick_leave_histories"
+msgstr "病假紀錄資料"
+
+msgid "add_sick_leave_history"
+msgstr "新增病假紀錄"
+
+msgid "edit_sick_leave_history"
+msgstr "編輯病假紀錄"
+
+msgid "is_attended"
+msgstr "參加" 
+ 
+msgid "not_attended"
+msgstr "沒參加"
+
+msgid "attended"
+msgstr "已參加"
+
+msgid "edit_student_attended_class"
+msgstr "點名"
+
+msgid "name"
+msgstr "班別名稱"
+
+msgid "code"
+msgstr "班別編號"

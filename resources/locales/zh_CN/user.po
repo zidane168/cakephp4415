@@ -1,0 +1,47 @@
+msgid "login_successfully"
+msgstr "登入成功"
+
+msgid "login_unsuccessfully"
+msgstr "登入失败"
+
+msgid "user_not_active"
+msgstr "帐号无效"
+
+msgid "verification_method"
+msgstr "验证方式"
+
+msgid "verification_type"
+msgstr "验证类型"
+
+msgid "is_used"
+msgstr "已使用"
+
+msgid "code"
+msgstr "验证码"
+
+msgid "generate_code"
+msgstr "生成验证码" 
+
+msgid "user_verifications"
+msgstr "用户验证一览"
+
+msgid "user_verification"
+msgstr "用户验证"
+
+msgid "add_user_verification"
+msgstr "新增用户验证"
+
+msgid "edit_user_verification"
+msgstr "编辑用户验证"
+
+msgid "system_message"
+msgstr "系统信息"
+
+msgid "system_messages"
+msgstr "系统信息一览"
+
+msgid "notice"
+msgstr "通知"
+
+msgid "read_time"
+msgstr "读信息时间"

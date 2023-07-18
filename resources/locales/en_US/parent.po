@@ -1,0 +1,63 @@
+msgid "parent_children"
+msgstr "Parents & Children"
+
+msgid "phone_number"
+msgstr "Phone Number"
+
+msgid "gender"
+msgstr "Gender"
+
+msgid "add_cidc_parent"
+msgstr "Add Parent"
+
+msgid "edit_cidc_parent"
+msgstr "Edit Parent"
+
+msgid "cidc_parent"
+msgstr "Parent"
+
+msgid "cidc_parents"
+msgstr "Parents"
+
+msgid "add_kid"
+msgstr "Add Kid"
+
+msgid "edit_kid"
+msgstr "Edit Kid"
+
+msgid "kid"
+msgstr "Kid"
+
+msgid "kids"
+msgstr "Kids"
+
+msgid "dob"
+msgstr "DOB"
+
+msgid "caretaker"
+msgstr "Caretaker"
+
+msgid "number_of_siblings"
+msgstr "Number Of Siblings"
+
+msgid "nick_name"
+msgstr "Nick Name"
+
+msgid "special_attention_needed"
+msgstr "Special Attention Needed"
+
+msgid "children"
+msgstr "Children"
+
+msgid "information"
+msgstr "Information"
+
+msgid "male"
+msgstr "Male"
+
+msgid "female"
+msgstr "Female"
+
+msgid "you_have_created_parent_successfully_you_should_create_a_children_by_this_link"
+msgstr "Congratulation you have created parent profile successfully, you should continue create a children"
+

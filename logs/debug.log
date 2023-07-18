@@ -1,0 +1,155 @@
+2023-07-18 03:15:51 notice: Please change the value of `Security.salt` in `ROOT/config/app_local.php` to a random value of at least 32 characters.
+Request URL: /
+Trace:
+Cake\Error\Debugger::checkSecurityKeys() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Error/Debugger.php, line 1147
+include /Applications/MAMP/htdocs/cakephp442/templates/Pages/home.php, line 98
+Cake\View\View::_evaluate() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 1220
+Cake\View\View::_render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 1177
+Cake\View\View::render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 808
+Cake\Controller\Controller::render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/Controller.php, line 773
+App\Controller\PagesController::display() /Applications/MAMP/htdocs/cakephp442/src/Controller/PagesController.php, line 65
+Cake\Controller\Controller::invokeAction() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 320
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 164
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner::run() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 67
+Cake\Http\Server::run() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Server.php, line 90
+[main] /Applications/MAMP/htdocs/cakephp442/webroot/index.php, line 40
+
+2023-07-18 03:20:43 notice: Please change the value of `Security.salt` in `ROOT/config/app_local.php` to a random value of at least 32 characters.
+Request URL: /
+Trace:
+Cake\Error\Debugger::checkSecurityKeys() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Error/Debugger.php, line 1147
+include /Applications/MAMP/htdocs/cakephp442/templates/Pages/home.php, line 98
+Cake\View\View::_evaluate() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 1220
+Cake\View\View::_render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 1177
+Cake\View\View::render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 808
+Cake\Controller\Controller::render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/Controller.php, line 773
+App\Controller\PagesController::display() /Applications/MAMP/htdocs/cakephp442/src/Controller/PagesController.php, line 65
+Cake\Controller\Controller::invokeAction() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 320
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner::run() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 67
+Cake\Http\Server::run() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Server.php, line 90
+[main] /Applications/MAMP/htdocs/cakephp442/webroot/index.php, line 40
+
+2023-07-18 03:20:53 notice: Please change the value of `Security.salt` in `ROOT/config/app_local.php` to a random value of at least 32 characters.
+Request URL: /
+Trace:
+Cake\Error\Debugger::checkSecurityKeys() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Error/Debugger.php, line 1147
+include /Applications/MAMP/htdocs/cakephp442/templates/Pages/home.php, line 98
+Cake\View\View::_evaluate() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 1220
+Cake\View\View::_render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 1177
+Cake\View\View::render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 808
+Cake\Controller\Controller::render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/Controller.php, line 773
+App\Controller\PagesController::display() /Applications/MAMP/htdocs/cakephp442/src/Controller/PagesController.php, line 65
+Cake\Controller\Controller::invokeAction() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 320
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner::run() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 67
+Cake\Http\Server::run() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Server.php, line 90
+[main] /Applications/MAMP/htdocs/cakephp442/webroot/index.php, line 40
+
+2023-07-18 03:20:54 notice: Please change the value of `Security.salt` in `ROOT/config/app_local.php` to a random value of at least 32 characters.
+Request URL: /
+Trace:
+Cake\Error\Debugger::checkSecurityKeys() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Error/Debugger.php, line 1147
+include /Applications/MAMP/htdocs/cakephp442/templates/Pages/home.php, line 98
+Cake\View\View::_evaluate() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 1220
+Cake\View\View::_render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 1177
+Cake\View\View::render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/View/View.php, line 808
+Cake\Controller\Controller::render() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/Controller.php, line 773
+App\Controller\PagesController::display() /Applications/MAMP/htdocs/cakephp442/src/Controller/PagesController.php, line 65
+Cake\Controller\Controller::invokeAction() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 320
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 174
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner::run() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Runner.php, line 67
+Cake\Http\Server::run() /Applications/MAMP/htdocs/cakephp442/vendor/cakephp/cakephp/src/Http/Server.php, line 90
+[main] /Applications/MAMP/htdocs/cakephp442/webroot/index.php, line 40
+
+2023-07-18 03:27:53 notice: Please change the value of `Security.salt` in `ROOT/config/app_local.php` to a random value of at least 32 characters.
+Request URL: /
+Trace:
+Cake\Error\Debugger::checkSecurityKeys() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Error/Debugger.php, line 1147
+include /Applications/MAMP/htdocs/cakephp4415/templates/Pages/home.php, line 98
+Cake\View\View::_evaluate() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/View/View.php, line 1220
+Cake\View\View::_render() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/View/View.php, line 1177
+Cake\View\View::render() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/View/View.php, line 808
+Cake\Controller\Controller::render() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Controller/Controller.php, line 773
+App\Controller\PagesController::display() /Applications/MAMP/htdocs/cakephp4415/src/Controller/PagesController.php, line 65
+Cake\Controller\Controller::invokeAction() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Controller/Controller.php, line 547
+Cake\Controller\ControllerFactory::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 139
+Cake\Controller\ControllerFactory::invoke() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 114
+Cake\Http\BaseApplication::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 320
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Middleware\CsrfProtectionMiddleware::process() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 164
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Middleware\BodyParserMiddleware::process() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 157
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\RoutingMiddleware::process() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 186
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Routing\Middleware\AssetMiddleware::process() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 68
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Error\Middleware\ErrorHandlerMiddleware::process() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 131
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+DebugKit\Middleware\DebugKitMiddleware::process() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+Cake\Http\Runner::handle() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner::run() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Runner.php, line 67
+Cake\Http\Server::run() /Applications/MAMP/htdocs/cakephp4415/vendor/cakephp/cakephp/src/Http/Server.php, line 90
+[main] /Applications/MAMP/htdocs/cakephp4415/webroot/index.php, line 40
+

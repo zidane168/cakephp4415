@@ -1,0 +1,23 @@
+msgid "order"
+msgstr "Order"
+
+msgid "orders"
+msgstr "Orders"
+
+msgid "add_order"
+msgstr "Add order"
+
+msgid "edit_order"
+msgstr "Edit order"
+
+msgid "total_fee"
+msgstr "Total fee"
+
+msgid "order_number"
+msgstr "Order number"
+
+msgid "status"
+msgstr "Order status"
+
+msgid "invalid_order"
+msgstr "Invalid order"

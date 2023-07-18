@@ -1,0 +1,34 @@
+msgid "administrator"
+msgstr "管理员"
+
+msgid "administrators"
+msgstr "管理员一览"
+
+msgid "add_administrator"
+msgstr "添加管理员"
+
+msgid "edit_administrator"
+msgstr "管理员编辑"
+
+msgid "edit_password"
+msgstr "编辑密码"
+
+msgid "old_password"
+msgstr "当前密码"
+
+msgid "new_password"
+msgstr "新密码"
+
+msgid "confirm_Newpassword"
+msgstr "确认新密码"
+
+msgid "account_info"
+msgstr "账户信息"
+
+msgid "change_password"
+msgstr "更改密码"
+
+msgid "last_logged_in"
+msgstr "最后登录时间"
+
+

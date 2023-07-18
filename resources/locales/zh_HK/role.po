@@ -1,0 +1,23 @@
+msgid "role"
+msgstr "職位"
+
+msgid "roles"
+msgstr "職位一覽"
+
+msgid "add_role"
+msgstr "新增職位之權限"
+
+msgid "edit_role"
+msgstr "編輯職位之權限"
+
+msgid "manage_center"
+msgstr "管理分會"
+
+msgid "permissions_management"
+msgstr "權限管理表"
+
+msgid "rule"
+msgstr "規則"
+
+msgid "action"
+msgstr "權限"

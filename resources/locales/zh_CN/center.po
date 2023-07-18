@@ -1,0 +1,156 @@
+msgid "unit"
+msgstr "单位"
+
+msgid "program"
+msgstr "课程"
+
+msgid "programs"
+msgstr "课程一览"
+
+msgid "add_program"
+msgstr "新增课程"
+
+msgid "edit_program"
+msgstr "编辑课程"
+
+msgid "center"
+msgstr "中心"
+
+msgid "centers"
+msgstr "中心一览"
+
+msgid "add_center"
+msgstr "新增中心"
+
+msgid "edit_center"
+msgstr "编辑中心"
+
+msgid "course"
+msgstr "课堂"
+
+msgid "courses"
+msgstr "课堂一览"
+
+msgid "add_course"
+msgstr "新增课堂"
+
+msgid "edit_course"
+msgstr "编辑课堂"
+
+msgid "age_range_from"
+msgstr "年龄段从"
+
+msgid "age_range_to"
+msgstr "到"
+
+msgid "school_management" 
+msgstr "学校管理中心"
+
+msgid "class_types"
+msgstr "班别类型一览"
+
+msgid "class_type"
+msgstr "班别类型"
+
+msgid "add_class_type"
+msgstr "新增班别类型"
+
+msgid "edit_class_type"
+msgstr "编辑班别类型"
+
+msgid "status"
+msgstr "状态"
+
+msgid "fee"
+msgstr "学费"
+
+msgid "target_audience_from"
+msgstr "年龄段从"
+
+msgid "target_audience_to"
+msgstr "到"
+
+msgid "target_unit"
+msgstr "目标单位"
+
+msgid "minimum_of_students"
+msgstr "最少学生"
+
+msgid "maximum_of_students"
+msgstr "最多学生"
+
+msgid "date_of_lesson"
+msgstr "上课日期"
+
+msgid "number_of_weeks"
+msgstr "周数"
+
+msgid "start_date"
+msgstr "开始日期"
+
+msgid "end_date"
+msgstr "结束日期"
+
+msgid "start_time"
+msgstr "开始时间"
+
+msgid "end_time"
+msgstr "结束时间"
+
+msgid "publish_date"
+msgstr "发布日期"
+
+msgid "fee"
+msgstr "学费"
+
+msgid "cidc_classes"
+msgstr "班别一览"
+
+msgid "cidc_class"
+msgstr "班别"
+
+msgid "add_cidc_class"
+msgstr "新增班别"
+
+msgid "edit_cidc_class"
+msgstr "编辑班别" 
+
+msgid "number_of_week"
+msgstr "周数"
+
+msgid "pending"
+msgstr "处理中"
+
+msgid "approved"
+msgstr "已批准"
+
+msgid "disapproved"
+msgstr "已拒绝"
+
+msgid "completed"
+msgstr "已完成"
+
+msgid "title"
+msgstr "标题"
+
+msgid "banner_color"
+msgstr "横幅颜色"
+
+msgid "title_color"
+msgstr "标题颜色"
+
+msgid "background_color"
+msgstr "背景颜色"
+
+msgid "months"
+msgstr "月"
+
+msgid "years"
+msgstr "年" 
+
+msgid "target_audience"
+msgstr "目标人群" 
+
+msgid "school_management"
+msgstr "学校管理系统"
+ 

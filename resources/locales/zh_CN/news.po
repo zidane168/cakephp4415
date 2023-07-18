@@ -1,0 +1,32 @@
+msgid "newses"
+msgstr "新闻一览"
+
+msgid "news"
+msgstr "新闻"
+
+msgid "add_news"
+msgstr "新增新闻"
+
+msgid "edit_news"
+msgstr "编辑新闻"
+
+msgid "is_hot_news"
+msgstr "热点新闻"
+
+msgid "category"
+msgstr "新闻分类"
+
+msgid "type"
+msgstr "新闻类型"
+
+msgid "types"
+msgstr "新闻类型一览"
+
+msgid "add_type"
+msgstr "新增新闻类型"
+
+msgid "edit_type"
+msgstr "编辑新闻类型"
+
+msgid "author"
+msgstr "责任编辑"

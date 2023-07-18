@@ -1,0 +1,32 @@
+msgid "newses"
+msgstr "最新消息"
+
+msgid "news"
+msgstr "最新消息"
+
+msgid "add_news"
+msgstr "新增消息"
+
+msgid "edit_news"
+msgstr "編輯消息"
+
+msgid "is_hot_news"
+msgstr "熱點消息"
+
+msgid "category"
+msgstr "消息分類"
+
+msgid "type"
+msgstr "消息類型"
+
+msgid "types"
+msgstr "消息類型一覽"
+
+msgid "add_type"
+msgstr "新增消息類型"
+
+msgid "edit_type"
+msgstr "編輯消息類型"
+
+msgid "author"
+msgstr "發佈者"

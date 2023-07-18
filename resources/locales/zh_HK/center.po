@@ -1,0 +1,190 @@
+msgid "unit"
+msgstr "月/年"
+
+msgid "program"
+msgstr "課程"
+
+msgid "programs"
+msgstr "課程一覽"
+
+msgid "add_program"
+msgstr "新增課程"
+
+msgid "edit_program"
+msgstr "編輯課程"
+
+msgid "center"
+msgstr "分會"
+
+msgid "centers"
+msgstr "分會一覽"
+
+msgid "add_center"
+msgstr "新增分會"
+
+msgid "edit_center"
+msgstr "編輯分會"
+
+msgid "center_name"
+msgstr "分會名稱"
+
+msgid "course"
+msgstr "組別"
+
+msgid "courses"
+msgstr "組別一覽"
+
+msgid "add_course"
+msgstr "新增組別"
+
+msgid "edit_course"
+msgstr "編輯組別"
+
+msgid "age_range_from"
+msgstr "年齡段從"
+
+msgid "age_range_to"
+msgstr "到"
+
+msgid "school_management"
+msgstr "分會管理"
+
+msgid "class_types"
+msgstr "班別類型一覽"
+
+msgid "class_type"
+msgstr "班別類型"
+
+msgid "add_class_type"
+msgstr "新增班別類型"
+
+msgid "edit_class_type"
+msgstr "編輯班別類型"
+
+msgid "status"
+msgstr "狀態"
+
+msgid "fee"
+msgstr "課堂費用"
+
+msgid "target_audience_from"
+msgstr "年齡段從"
+
+msgid "target_audience_to"
+msgstr "到"
+
+msgid "target_unit"
+msgstr "目標單位"
+
+msgid "minimum_of_students"
+msgstr "最少學生"
+
+msgid "maximum_of_students"
+msgstr "最多學生"
+
+msgid "date_of_lesson"
+msgstr "上課日期"
+
+msgid "number_of_weeks"
+msgstr "週數"
+
+msgid "start_date"
+msgstr "開始日期"
+
+msgid "end_date"
+msgstr "結束日期"
+
+msgid "start_time"
+msgstr "開始時間"
+
+msgid "end_time"
+msgstr "結束時間"
+
+msgid "publish_date"
+msgstr "發佈日期"
+  
+msgid "cidc_classes"
+msgstr "班別一覽"
+
+msgid "cidc_class"
+msgstr "班別"
+
+msgid "add_cidc_class"
+msgstr "新增班別"
+
+msgid "edit_cidc_class"
+msgstr "編輯班別" 
+  
+msgid "number_of_week"
+msgstr "週數"
+
+msgid "pending"
+msgstr "處理中"
+
+msgid "approved"
+msgstr "已批准"
+
+msgid "disapproved"
+msgstr "已拒絕"
+
+msgid "school_management"
+msgstr "學校管理系統"
+
+msgid "completed"
+msgstr "已完成"
+
+msgid "title"
+msgstr "標題"
+
+msgid "banner_color"
+msgstr "橫幅顏色"
+
+msgid "title_color"
+msgstr "標題顏色"
+
+msgid "background_color"
+msgstr "背景顏色"
+
+msgid "months"
+msgstr "月"
+
+msgid "years"
+msgstr "年" 
+
+msgid "target_audience"
+msgstr "目標人群" 
+ 
+msgid "phone_us"
+msgstr "電話"
+
+msgid "whatsapp"
+msgstr "傳真"
+
+msgid "visit_us"
+msgstr "地址"
+
+msgid "mail_us"
+msgstr "電郵"
+
+msgid "code"
+msgstr "分會代號"
+
+msgid "course_id"
+msgstr "組別編號"
+
+msgid "course_name"
+msgstr "組別名稱"
+
+msgid "course_type"
+msgstr "組別選項"
+
+msgid "course_types"
+msgstr "組別選項一覽"
+
+msgid "add_course_type"
+msgstr "新增組別選項"
+
+msgid "edit_course_type"
+msgstr "編輯組別選項"
+
+ 

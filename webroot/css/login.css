@@ -1,0 +1,61 @@
+/* #23466C; */
+.red {
+  color: red;
+}
+#login {
+  background: url('../webroot/img/cidckids/login-background.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 1420px;
+  max-width: 1420px;
+  margin: 0 auto;
+}
+#login #logo {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+#login #main {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  height: calc(70vh);
+}
+#login #main #login-form {
+  min-width: 500px;
+}
+#login #main #login-form .group-password {
+  position: relative;
+}
+#login #main #login-form .group-password .eye-open {
+  position: absolute;
+  bottom: 8px;
+  right: 25px;
+}
+#login #main #login-form .group-password .eye-close {
+  position: absolute;
+  bottom: 8px;
+  right: 25px;
+}
+#login #main #login-form .group-password .eye.hidden {
+  display: none;
+}
+#login .btn {
+  background-color: #8D2BCD;
+  border-radius: 4px;
+  padding: 8px 25px;
+  border: 1px solid #8D2BCD;
+  color: white;
+}
+#login .btn:hover {
+  background-color: white;
+  color: #8D2BCD;
+}
+#login .button-space {
+  margin-top: 20px;
+}
+#login input#password::after {
+  content: "glyphicon glyphicon-eye-open";
+}

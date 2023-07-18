@@ -1,0 +1,62 @@
+msgid "parent_children"
+msgstr "家长与学生"
+
+msgid "phone_number"
+msgstr "电话号码"
+
+msgid "gender"
+msgstr "性别"
+
+msgid "add_cidc_parent"
+msgstr "新增家长"
+
+msgid "edit_cidc_parent"
+msgstr "编辑家长"
+
+msgid "cidc_parent"
+msgstr "家长"
+
+msgid "cidc_parents"
+msgstr "家长一览"
+
+msgid "add_kid"
+msgstr "新增小朋友"
+
+msgid "edit_kid"
+msgstr "编辑小朋友"
+
+msgid "kid"
+msgstr "小朋友"
+
+msgid "kids"
+msgstr "小朋友一览"
+
+msgid "dob"
+msgstr "生日"
+
+msgid "caretaker"
+msgstr "保姆"
+
+msgid "number_of_siblings"
+msgstr "兄弟姐妹数量"
+
+msgid "nick_name"
+msgstr "昵称"
+
+msgid "special_attention_needed"
+msgstr "特别注意事项"
+
+msgid "children"
+msgstr "小孩"
+
+msgid "information"
+msgstr "资料一览" 
+
+msgid "male"
+msgstr "男"
+
+msgid "female"
+msgstr "女"
+
+msgid "you_have_created_parent_successfully_you_should_create_a_children_by_this_link"
+msgstr "恭喜您已成功新增家长资料，请继续新增个小朋友"

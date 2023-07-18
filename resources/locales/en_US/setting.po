@@ -1,0 +1,143 @@
+msgid "setting"
+msgstr "Setting"
+
+msgid "settings"
+msgstr "Settings"
+
+msgid "region"
+msgstr "Region"
+
+msgid "regions"
+msgstr "Regions"
+
+msgid "district"
+msgstr "District"
+
+msgid "districts"
+msgstr "Districts"
+
+msgid "subdistrict"
+msgstr "Subdistrict"
+
+msgid "subdistricts"
+msgstr "Subdistricts"
+
+msgid "add_region"
+msgstr "Add region"
+
+msgid "edit_region"
+msgstr "Edit region"
+
+msgid "add_district"
+msgstr "Add district"
+
+msgid "edit_district"
+msgstr "Edit district"
+
+msgid "add_subdistrict"
+msgstr "Add subdistrict"
+
+msgid "edit_subdistrict"
+msgstr "Edit subdistrict"
+
+msgid "address"
+msgstr "Address"
+
+msgid "content"
+msgstr "Content"
+
+msgid "payment_type"
+msgstr "Payment Type"
+
+msgid "payment_types"
+msgstr "Payment Types"
+
+msgid "add_payment_type"
+msgstr "Add Payment Type"
+
+msgid "edit_payment_type"
+msgstr "Edit Payment Type"
+
+msgid "relationship"
+msgstr "Relationship"
+
+msgid "relationships"
+msgstr "Relationships"
+
+msgid "add_relationship"
+msgstr "Add Relationship"
+
+msgid "edit_relationship"
+msgstr "Edit Relationship"
+
+msgid "emergency_contacts"
+msgstr "Emergency Contacts"
+
+msgid "emergency_contact"
+msgstr "Emergency Contact"
+
+msgid "add_emergency_contact"
+msgstr "Add Emergency Contact"
+
+msgid "edit_emergency_contact"
+msgstr "Edit Emergency Contact"
+
+msgid "feedback"
+msgstr "Feedback"
+
+msgid "feedbacks"
+msgstr "Feedbacks"
+
+msgid "add_feedback"
+msgstr "Add Feedback"
+
+msgid "edit_feedback"
+msgstr "Edit Feedback"
+
+msgid "cidc_holidays"
+msgstr "Holidays"
+
+msgid "cidc_holiday"
+msgstr "Holiday"
+
+msgid "add_cidc_holiday"
+msgstr "Add Holiday"
+
+msgid "edit_cidc_holiday"
+msgstr "Edit Holiday"
+
+msgid "abouts"
+msgstr "Abouts"
+
+msgid "about"
+msgstr "About"
+
+msgid "add_about"
+msgstr "Add About"
+
+msgid "edit_about"
+msgstr "Edit About"
+
+msgid "contacts"
+msgstr "Contacts"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "add_contact"
+msgstr "Add Contact"
+
+msgid "edit_contact"
+msgstr "Edit Contact"
+
+msgid "terms"
+msgstr "Terms"
+
+msgid "term"
+msgstr "Term"
+
+msgid "add_term"
+msgstr "Add Term"
+
+msgid "edit_term"
+msgstr "Edit Term"

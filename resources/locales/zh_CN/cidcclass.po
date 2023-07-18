@@ -1,0 +1,170 @@
+msgid "pending"
+msgstr "待定中"
+
+msgid "approved"
+msgstr "已成班"
+
+msgid "disapproved"
+msgstr "不成班"
+
+msgid "completed"
+msgstr "已完成"
+
+msgid "this_kid_had_registered_this_class"
+msgstr "這儿童已登记"
+
+msgid "register_class_success"
+msgstr "报名成功"
+
+msgid "each_monday"
+msgstr "每逢周一"
+
+msgid "each_tuesday"
+msgstr "每逢周二"
+
+msgid "each_wednesday"
+msgstr "每逢周三"
+
+msgid "each_thursday"
+msgstr "每逢周四"
+
+msgid "each_friday"
+msgstr "每逢周五"
+
+msgid "each_saturday"
+msgstr "每逢周六"
+
+msgid "each_sunday"
+msgstr "每逢周日"
+
+msgid "full_slot_already"
+msgstr "名额已满"
+
+msgid "published"
+msgstr "已开班"
+
+msgid "unpublished"
+msgstr "没开班"
+
+msgid "target_audience"
+msgstr "目标人群"
+
+msgid "date_of_lessons"
+msgstr "上课日期"
+
+msgid "min_max_students"
+msgstr "最少最多学生"
+
+msgid "number_of_lessons"
+msgstr "课堂数量"
+
+msgid "class_management"
+msgstr "班级管理"
+
+msgid "attended"
+msgstr "点名"
+ 
+msgid "data_class_is_saved"
+msgstr "班级质料已储存" 
+
+msgid "student_register_class"
+msgstr "学生登记表"
+
+msgid "student_register_classes"
+msgstr "学生登记表一览"
+
+msgid "add_student_register_class"
+msgstr "新增学生登记表"
+ 
+msgid "edit_student_register_class"
+msgstr "编辑学生登记表"
+
+msgid "attended"
+msgstr "上学"
+
+msgid "absent"
+msgstr "没有请假"
+
+msgid "on_leave"
+msgstr "休假" 
+
+msgid "privacy_policies"
+msgstr "隐私政策一览"
+
+msgid "privacy_policy"
+msgstr "隐私政策"
+
+msgid "add_privacy_policy"
+msgstr "新增隐私政策"
+
+msgid "edit_privacy_policy"
+msgstr "编辑隐私政策"
+
+msgid "student_attended_classes"
+msgstr "上课时间表"
+
+msgid "class_already_published_cannot_edit"
+msgstr "已发布的课程无法编辑" 
+
+msgid "capacity"
+msgstr "容量"
+
+msgid "add_student_trial"
+msgstr "添加学生试用版"
+
+msgid "hongkong_public_holiday"
+msgstr "香港公众假期"
+ 
+msgid "class_registered_day"
+msgstr "班级已注册日期"
+
+msgid "target_audience"
+msgstr "目标人群"
+
+msgid "number_of_register"
+msgstr "注册人数"
+ 
+msgid "paid"
+msgstr "已付钱"
+
+msgid "unpaid"
+msgstr "未付钱"
+
+msgid "are_attended"
+msgstr "登記"
+
+msgid "approval"
+msgstr "通过"
+
+msgid "from_cidc_class"
+msgstr "從那個班"
+
+msgid "to_cidc_class"
+msgstr "到那個班"
+
+msgid "circular"
+msgstr "循環班"
+
+msgid "non_circular"
+msgstr "非循環班"
+
+msgid "from_date"
+msgstr "开始日期"
+
+msgid "to_date"
+msgstr "结束日期"
+
+msgid "cannot_change_info_payment_paid_already"
+msgstr "无法更改已支付的信息" 
+
+msgid "cannot_delete_it_because_this_program_already_exist_on_course"
+msgstr "无法删除，此课程已存在课堂中"
+
+msgid "cannot_delete_it_becautanse_this_program_already_exist_on_class"
+msgstr "无法删除，此课程已存在班中"
+
+msgid "cannot_delete_it_because_this_course_already_exist_on_class"
+msgstr "无法删除，此课堂已存在班中"
+
+msgid "cannot_adjust_maximum_of_students_less_than_exist_student_join"
+msgstr "无法调整'最多学生'少于 {0} 学生注册"

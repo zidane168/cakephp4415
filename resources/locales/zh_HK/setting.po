@@ -1,0 +1,141 @@
+msgid "setting"
+msgstr "設置"
+
+msgid "settings"
+msgstr "設置一覽"
+ 
+msgid "district"
+msgstr "地區資料"
+
+msgid "districts"
+msgstr "地區資料"
+ 
+
+msgid "add_district"
+msgstr "新增地區資料"
+
+msgid "edit_district"
+msgstr "編輯地區資料區"
+ 
+msgid "address"
+msgstr "地址"
+
+msgid "condition_type"
+msgstr "條款與條件類型"
+
+msgid "condition_types"
+msgstr "條款與條件類型一覽"
+
+msgid "add_condition_type"
+msgstr "新增條款與條件類型"
+
+msgid "edit_condition_type"
+msgstr "編輯條款與條件類型"
+
+msgid "condition"
+msgstr "條款與條件"
+
+msgid "conditions"
+msgstr "條款與條件一覽"
+
+msgid "add_condition"
+msgstr "新增條款與條件"
+
+msgid "edit_condition"
+msgstr "編輯條款與條件"
+
+msgid "payment_type"
+msgstr "支付方式"
+
+msgid "payment_types"
+msgstr "支付方式一覽"
+
+msgid "add_payment_type"
+msgstr "新增付款方式"
+
+msgid "edit_payment_type"
+msgstr "編輯付款方式"
+
+msgid "relationship"
+msgstr "關係資料"
+
+msgid "relationships"
+msgstr "關係資料"
+
+msgid "add_relationship"
+msgstr "新增關係資料"
+
+msgid "edit_relationship"
+msgstr "編輯關係資料"
+
+msgid "emergency_contacts"
+msgstr "緊急聯絡人一覽"
+
+msgid "emergency_contact"
+msgstr "緊急聯絡人"
+
+msgid "add_emergency_contact"
+msgstr "新增緊急聯絡人"
+
+msgid "edit_emergency_contact"
+msgstr "編輯緊急聯絡人"
+
+msgid "feedback"
+msgstr "意見收集紀錄"
+
+msgid "feedbacks"
+msgstr "意見收集紀錄"
+
+msgid "add_feedback"
+msgstr "新增意見收集紀錄"
+
+msgid "edit_feedback"
+msgstr "編輯意見收集紀錄"
+
+msgid "cidc_holidays"
+msgstr "假期資料"
+
+msgid "cidc_holiday"
+msgstr "假期資料"
+
+msgid "add_cidc_holiday"
+msgstr "新增假期資料"
+
+msgid "edit_cidc_holiday"
+msgstr "編輯假期資料"
+
+msgid "abouts"
+msgstr "簡介資料"
+
+msgid "about"
+msgstr "簡介資料"
+
+msgid "add_about"
+msgstr "新增簡介資料"
+
+msgid "edit_about"
+msgstr "編輯簡介資料"
+
+msgid "terms"
+msgstr "條款資料"
+
+msgid "term"
+msgstr "條款資料"
+
+msgid "add_term"
+msgstr "新增條款資料"
+
+msgid "edit_term"
+msgstr "編輯條款資料"
+
+msgid "contacts"
+msgstr "聯絡方式資料"
+
+msgid "contact"
+msgstr "聯絡方式資料"
+
+msgid "add_contact"
+msgstr "新增聯絡方式資料"
+
+msgid "edit_contact"
+msgstr "編輯聯絡方式資料"

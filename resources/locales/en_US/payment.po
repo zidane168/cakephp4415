@@ -1,0 +1,8 @@
+msgid "create_payment_successfully"
+msgstr "Create payment successfully"
+
+msgid "create_payment_unsuccessfully"
+msgstr "Create payment unsuccessfully"
+
+msgid "invalid_transaction_id"
+msgstr "Invalid transaction id"

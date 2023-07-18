@@ -1,0 +1,23 @@
+msgid "order"
+msgstr "訂單資料"
+
+msgid "orders"
+msgstr "訂單資料"
+
+msgid "add_order"
+msgstr "新增訂單資料"
+
+msgid "edit_order"
+msgstr "編輯訂單資料"
+
+msgid "total_fee"
+msgstr "課堂費用"
+ 
+msgid "order_number"
+msgstr "訂單編號"
+
+msgid "status"
+msgstr "訂單狀態"
+
+msgid "invalid_order"
+msgstr "訂單錯誤"

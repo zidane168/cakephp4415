@@ -1,0 +1,68 @@
+msgid "staff"
+msgstr "職員"
+
+msgid "staffs"
+msgstr "職員資料"
+
+msgid "add_staff"
+msgstr "新增職員資料"
+
+msgid "edit_staff"
+msgstr "編輯職員資料" 
+
+msgid "type"
+msgstr "類型"
+  
+msgid "album"
+msgstr "相簿紀錄"
+
+msgid "albums"
+msgstr "相簿紀錄"
+
+msgid "add_album"
+msgstr "新增相簿"
+
+msgid "edit_album"
+msgstr "編輯相簿"
+
+msgid "video"
+msgstr "影片紀錄"
+
+msgid "videos"
+msgstr "影片紀錄"
+
+msgid "add_video"
+msgstr "新增影片"
+
+msgid "edit_video"
+msgstr "編輯影片"
+
+msgid "reason"
+msgstr "原因"
+
+msgid "reschedule_history"
+msgstr "補堂紀錄資料"
+
+msgid "reschedule_histories"
+msgstr "補堂紀錄資料"
+
+msgid "add_reschedule_history"
+msgstr "新增補堂紀錄"
+
+msgid "edit_reschedule_history"
+msgstr "編輯補堂紀錄"
+
+msgid "sick_leave_history"
+msgstr "學生病假記錄"
+
+msgid "sick_leave_histories"
+msgstr "學生病假記錄一覽"
+
+msgid "add_sick_leave_history"
+msgstr "新增學生病假記錄"
+
+msgid "edit_sick_leave_history"
+msgstr "編輯學生病假記錄"
+
+msgid "order_id"
+msgstr "Order Id"

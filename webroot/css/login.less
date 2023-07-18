@@ -1,0 +1,75 @@
+@second-color: #8D2BCD; /* #23466C; */
+
+.red {
+    color: red;
+}
+
+#login {
+    background: url('../webroot/img/cidckids/login-background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%;
+    width: 1420px;
+    max-width: 1420px;
+    margin: 0 auto;
+
+    #logo { 
+        padding-top: 100px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #main {
+        margin-top: 20px;
+        display: flex; 
+        justify-content: center;  
+        height: calc(70vh); 
+
+        #login-form {
+            min-width: 500px;
+
+            .group-password {
+                position: relative;
+
+                .eye-open { 
+                    position: absolute;
+                    bottom: 8px;
+                    right: 25px;
+                }
+
+                .eye-close { 
+                    position: absolute;
+                    bottom: 8px;
+                    right: 25px;
+                }
+
+                .eye.hidden {
+                    display: none;
+                }
+            }
+        }
+    } 
+
+    .btn {
+        background-color: @second-color;
+        border-radius: 4px;
+        padding: 8px 25px;
+        border: 1px solid @second-color;
+        color: white;
+
+        &:hover {
+            background-color: white;
+            color: @second-color;
+        }
+    }
+
+    .button-space {
+        margin-top: 20px;
+    }
+
+    input#password::after {
+        content: "glyphicon glyphicon-eye-open",
+    }
+}
+ 

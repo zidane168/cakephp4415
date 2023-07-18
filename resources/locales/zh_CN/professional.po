@@ -1,0 +1,26 @@
+msgid "certification_for_teacher"
+msgstr "导师证件"
+
+msgid "add_certification"
+msgstr "新增证件" 
+
+msgid "professionals"
+msgstr "导师一览" 
+
+msgid "professional"
+msgstr "导师" 
+
+msgid "add_professional"
+msgstr "新增导师" 
+
+msgid "edit_professional"
+msgstr "编辑导师" 
+ 
+msgid "type"
+msgstr "导师类型"
+
+msgid "teacher"
+msgstr "主教"
+
+msgid "assistant"
+msgstr "助教"

@@ -1,0 +1,449 @@
+msgid "good_morning"
+msgstr "Good morning, "
+
+msgid "good_afternoon1"
+msgstr "Good afternoon, "
+
+msgid "good_afternoon"
+msgstr "Good afternoon, "
+
+msgid "good_evening"
+msgstr "Good evening,  "
+
+msgid "zh_CN_name"
+msgstr "简体中文"
+
+msgid "zh_HK_name"
+msgstr "繁体中文"
+
+msgid "zh_CN"
+msgstr "简体中文"
+
+msgid "en_US_name"
+msgstr "English"
+
+msgid "id"
+msgstr "Id"
+
+msgid "slug"
+msgstr "Slug"
+
+msgid "name"
+msgstr "Name"
+
+msgid "modified_by"
+msgstr "Modified By"
+
+msgid "created_by"
+msgstr "Created By"
+
+msgid "modified"
+msgstr "Modified"
+
+msgid "created"
+msgstr "Created"
+
+msgid "add"
+msgstr "Add"
+
+msgid "edit"
+msgstr "Edit"
+
+msgid "view"
+msgstr "View"
+
+msgid "delete"
+msgstr "Delete"
+
+msgid "enabled"
+msgstr "Enabled"
+
+msgid "disabled"
+msgstr "Disabled"
+
+msgid "email"
+msgstr "Email"
+
+msgid "phone"
+msgstr "Phone"
+
+msgid "delete_all"
+msgstr "Delete all"
+
+msgid "operation"
+msgstr "Operation"
+
+msgid "submit"
+msgstr "Submit"
+
+msgid "reset"
+msgstr "Reset"
+
+msgid "export"
+msgstr "Export CSV"
+
+msgid "export_excel"
+msgstr "Export Excel"
+
+msgid "please_select"
+msgstr "-- Please Select --"
+
+msgid "sign_in"
+msgstr "Sign in"
+
+msgid "sign_out"
+msgstr "Sign out"
+
+msgid "remember_me"
+msgstr "Remember me"
+
+msgid "password"
+msgstr "Password"
+
+msgid "user_is_logged_out"
+msgstr "User is logged out"
+
+msgid "retrieve_data_successfully"
+msgstr "Retrieve data successfully"
+
+msgid "retrieve_data_not_successfully"
+msgstr "Retrieve data not successfully"
+
+msgid "image_type"
+msgstr "Image Type"
+
+msgid "image"
+msgstr "Image"
+
+msgid "status"
+msgstr "Status"
+
+msgid "all"
+msgstr "All"
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "no"
+msgstr "No"
+
+msgid "data_is_saved"
+msgstr "Data is saved"
+
+msgid "data_is_not_saved"
+msgstr "Data is not saved"
+
+msgid "export_pdf"
+msgstr "Export PDF"
+
+msgid "order_image"
+msgstr "Order image"
+
+msgid "guideline"
+msgstr "Guideline"
+
+msgid "delete_message"
+msgstr "Are you sure to delete record with id={0}?"
+
+msgid "enabled_message"
+msgstr "Are you sure to enabled record with id={0}?"
+
+msgid "disabled_message"
+msgstr "Are you sure to disabled record with id={0}?"
+
+msgid "data_is_deleted"
+msgstr "Data is deleted"
+
+msgid "missing_parameter"
+msgstr "Missing parameter: "
+
+msgid "point"
+msgstr "Point"
+
+msgid "zh_HK"
+msgstr "繁体中文"
+
+msgid "en_US"
+msgstr "English"
+
+msgid "facebook"
+msgstr "Facebook"
+
+msgid "add_image"
+msgstr "Add image"
+
+msgid "language"
+msgstr "Language"
+
+msgid "languages"
+msgstr "Languages"
+
+msgid "object_is_existed"
+msgstr "{0} is existed!"
+
+msgid "login_succeed"
+msgstr "Login successfully"
+
+msgid "login_failed"
+msgstr "Login failure"
+
+msgid "logout_succeed"
+msgstr "Logout successfully"
+
+msgid "logout_failed"
+msgstr "Logout failure"
+ 
+msgid "invalid_data"
+msgstr "Invalid data"
+
+msgid "missing_parameter"
+msgstr "Missing parameter: "
+
+msgid "area_code"
+msgstr "Area code"
+
+msgid "is_used"
+msgstr "Is used"
+
+msgid "not_yet_used"
+msgstr "Not yet used"
+
+msgid "description"
+msgstr "Description"
+
+msgid "column_filter"
+msgstr "Column filter"
+
+msgid "display_all"
+msgstr "Display all"
+
+msgid "mr"
+msgstr "Mr"
+
+msgid "miss"
+msgstr "Miss"
+
+msgid "mrs"
+msgstr "Mrs"
+
+msgid "minutes ago"
+msgstr "minutes ago"
+
+msgid "hours ago"
+msgstr "hours ago"
+
+msgid "days ago"
+msgstr "days ago"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "days"
+msgstr "days"
+
+msgid "checked"
+msgstr "checked"
+
+msgid "not_check"
+msgstr "not check"
+
+msgid "thumbnail"
+msgstr "Thumbnail"
+
+msgid "default_language"
+msgstr "Default language"
+
+msgid "rxwork_patient_id"
+msgstr "Rxwork client id"
+
+msgid "content"
+msgstr "Content"
+
+msgid "hotline"
+msgstr "Hotline"
+
+msgid "fax"
+msgstr "Fax"
+
+msgid "whatsapp"
+msgstr "WhatsApp"
+
+msgid "sms"
+msgstr "Sms message" 
+
+msgid "forgot_password"
+msgstr "Forgot password"
+
+msgid "register"
+msgstr "Register"
+
+msgid "booking"
+msgstr "Booking"
+
+msgid "you_must_relogin_for_the_changes_to_take_effect"
+msgstr "Please relogin for the changes to take effect"
+
+msgid "phone_existed"
+msgstr "Phone number is used"
+
+msgid "phone_not_existed"
+msgstr "Phone number is not used"
+
+msgid "email_existed"
+msgstr "Email is used"
+
+msgid "email_not_existed"
+msgstr "Email is not used"
+
+msgid "change_status_enabled"
+msgstr "Do you want to change status to enabled of id={0}"
+
+msgid "change_status_disabled"
+msgstr "Do you want to change status to disabled of id={0}"
+
+msgid "date"
+msgstr "Date"
+
+msgid "date_from"
+msgstr "Date from"
+
+msgid "date_to"
+msgstr "Date to"
+
+msgid "sign_in_now"
+msgstr "Sign in now"
+
+msgid "telephone"
+msgstr "Telephone"
+
+msgid "mobile_phone"
+msgstr "Mobile Phone"
+
+msgid "code"
+msgstr "Code"
+
+msgid "file"
+msgstr "File"
+
+msgid "files"
+msgstr "Files"
+
+msgid "username"
+msgstr "Username"
+
+msgid "bank_name"
+msgstr "Bank name"
+
+msgid "account"
+msgstr "Account"
+
+msgid "address"
+msgstr "Address"
+
+msgid "upload_avatar"
+msgstr "Upload avatar"
+
+msgid "upload_file_or_drag_it_here"
+msgstr "Upload file or Drag file into here"
+
+msgid "upload_file"
+msgstr "Upload file"
+
+msgid "less_than_x_mb_per_file"
+msgstr "less than {0}MB per file"
+
+msgid "missing_header"
+msgstr "Missing header"
+
+msgid "phone_is_exists"
+msgstr "Phone is exist"
+
+msgid "email_is_exists"
+msgstr "Email is exist"
+
+msgid "year"
+msgstr "Year"
+
+msgid "month"
+msgstr "Month"
+
+msgid "data_is_exists"
+msgstr "Data is exists"
+
+msgid "register_successfully"
+msgstr "Register successfully"
+
+msgid "title"
+msgstr "Title"
+
+msgid "avatar"
+msgstr "Avatar"
+ 
+msgid "data_was_updated"
+msgstr "Data was updated"
+
+msgid "time"
+msgstr "Time"
+
+msgid "information"
+msgstr "Information"
+
+msgid "ext"
+msgstr "Extension"
+
+msgid "file_name"
+msgstr "File Name"
+
+msgid "width"
+msgstr "Width"
+
+msgid "height"
+msgstr "Height"
+
+msgid "size"
+msgstr "Size"
+
+msgid "refresh"
+msgstr "Refresh"
+
+msgid "change_password_successfully"
+msgstr "Change password successfully"
+
+msgid "sort"
+msgstr "Sort"
+
+msgid "latitude"
+msgstr "Latitude"
+
+msgid "longitude"
+msgstr "Longitude"
+
+msgid "incorrect_manage_data_permission"
+msgstr "Incorrect manage data permission" 
+
+msgid "collapse_all"
+msgstr "Collapse all"  
+
+msgid "expand_all"
+msgstr "expand all" 
+
+msgid "phone_number_is_exist"
+msgstr "Phone number is exist"
+ 
+msgid "kt"
+msgstr "KT"
+ 
+msgid "payme"
+msgstr "Payme"
+
+msgid "deletion_this_id_is_not_possible_since_the_data_already_exists"
+msgstr "Deletion of this ID is not possible since the data already exists."
+
+msgid "nick_name"
+msgstr "Nick name"
+
+msgid "fbemail"
+msgstr "FaceBook email"

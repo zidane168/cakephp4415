@@ -1,0 +1,86 @@
+msgid "staff"
+msgstr "Staff"
+
+msgid "staffs"
+msgstr "Staffs"
+
+msgid "add_staff"
+msgstr "Add Staff"
+
+msgid "edit_staff"
+msgstr "Edit Staff"
+
+msgid "professional"
+msgstr "Professional"
+
+msgid "professionals"
+msgstr "Professionals"
+
+msgid "add_professional"
+msgstr "Add Professional"
+
+msgid "edit_professional"
+msgstr "Edit Professional"
+
+msgid "type"
+msgstr "Type"
+
+msgid "teacher"
+msgstr "Teacher"
+
+msgid "assistant"
+msgstr "Assistant"
+
+msgid "album"
+msgstr "Album"
+
+msgid "albums"
+msgstr "Albums"
+
+msgid "add_album"
+msgstr "Add Album"
+
+msgid "edit_album"
+msgstr "Edit Album"
+
+msgid "video"
+msgstr "Video"
+
+msgid "videos"
+msgstr "Videos"
+
+msgid "add_video"
+msgstr "Add Video"
+
+msgid "edit_video"
+msgstr "Edit Video"
+
+msgid "reschedule_history"
+msgstr "Reschedule History"
+
+msgid "reschedule_histories"
+msgstr "Reschedule Histories"
+
+msgid "add_reschedule_history"
+msgstr "Add Reschedule History"
+
+msgid "edit_reschedule_history"
+msgstr "Edit Reschedule History"
+
+msgid "reason"
+msgstr "Reason"
+
+msgid "sick_leave_history"
+msgstr "Sick leave history"
+
+msgid "sick_leave_histories"
+msgstr "Sick leave histories"
+
+msgid "add_sick_leave_history"
+msgstr "Add Sick leave history"
+
+msgid "edit_sick_leave_history"
+msgstr "Edit Sick leave history"
+
+msgid "order_id"
+msgstr "Order Id"

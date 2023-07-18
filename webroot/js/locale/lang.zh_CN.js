@@ -1,0 +1,23 @@
+lang = { 
+    check_at_least_on_date_of_lessons: "必须选择一个时刻",
+    registered: "已登记",
+    holidays: "香港公众假期",
+    is_exits_holiday_change_date_end_info: "上课时间适逢公众假期，因此结束日期会延迟",
+    this_field_is_required: "必填的",
+    end_date_should_be_greater_than_equal_to_start_date: "结束日期应该大于开始日期。",
+    end_time_should_be_greater_than_equal_to_start_time: "结束时间应该大于开始时间。",
+    max_should_be_greater_than_equal_to_min: "最大值应该大于最小值",
+    limit_number_of_lessons: "课堂数量限制至1000个",
+    cidc_class: {
+        name: '班别名称',
+        description: '班别描述',
+        fee: '学费',
+        min_max_student: '最多学生数量', 
+        date: '上学日期', 
+        time: '上学时间',
+        program: '课程',
+        course: '课堂',
+        number_of_register: "学生登记数量",
+        number_of_lessons: "课堂数量",
+    },
+}

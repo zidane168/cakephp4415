@@ -1,0 +1,50 @@
+msgid "login_successfully"
+msgstr "Login Successfully"
+
+msgid "login_unsuccessfully"
+msgstr "Login unsuccessfully"
+
+msgid "user_not_active"
+msgstr "User not active"
+
+msgid "sms_over_sent_on_day"
+msgstr "SMS Over Sent On Day"
+
+msgid "verification_method"
+msgstr "Verification method"
+
+msgid "verification_type"
+msgstr "Verification type"
+
+msgid "is_used"
+msgstr "is used"
+
+msgid "code"
+msgstr "Verification Code"
+
+msgid "generate_code"
+msgstr "Generate Code" 
+
+msgid "user_verifications"
+msgstr "User verifications"
+
+msgid "user_verification"
+msgstr "User verification"
+
+msgid "add_user_verification"
+msgstr "Add user verification"
+
+msgid "edit_user_verification"
+msgstr "Edit user verification"
+
+msgid "system_message"
+msgstr "System Message"
+
+msgid "system_messages"
+msgstr "System Messages"
+
+msgid "notice"
+msgstr "Notification"
+
+msgid "read_time"
+msgstr "Read Time"

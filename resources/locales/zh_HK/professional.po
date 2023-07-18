@@ -1,0 +1,38 @@
+msgid "certification_for_teacher"
+msgstr "導師證件"
+ 
+msgid "add_certification"
+msgstr "新增證件" 
+ 
+msgid "professionals"
+msgstr "專業團隊資料" 
+
+msgid "professional"
+msgstr "專業團隊資料" 
+
+msgid "add_professional"
+msgstr "新增專業團隊資料" 
+
+msgid "edit_professional"
+msgstr "編輯專業團隊資料"
+
+msgid "type"
+msgstr "專業範疇"
+
+msgid "teacher"
+msgstr "主教"
+
+msgid "assistant"
+msgstr "助教"
+
+msgid "professional_type"
+msgstr "專業範疇"
+
+msgid "professional_types"
+msgstr "專業範疇一覽"
+
+msgid "add_professional_type"
+msgstr "新增專業範疇"
+
+msgid "edit_professional_type"
+msgstr "編輯專業範疇"

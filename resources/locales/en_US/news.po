@@ -1,0 +1,33 @@
+
+msgid "newses"
+msgstr "News"
+
+msgid "news"
+msgstr "News"
+
+msgid "add_news"
+msgstr "Add News"
+
+msgid "edit_news"
+msgstr "Edit News"
+
+msgid "is_hot_news"
+msgstr "Is hot news"
+
+msgid "category"
+msgstr "Category"
+
+msgid "type"
+msgstr "Type"
+
+msgid "types"
+msgstr "Types"
+
+msgid "add_type"
+msgstr "Add type"
+
+msgid "edit_type"
+msgstr "Edit Type"
+
+msgid "author"
+msgstr "Author"

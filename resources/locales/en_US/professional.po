@@ -1,0 +1,38 @@
+msgid "certification_for_teacher"
+msgstr "Certification for Teacher or Assistant"
+
+msgid "add_certification"
+msgstr "Add Certification" 
+  
+msgid "professionals"
+msgstr "Professionals" 
+
+msgid "professional"
+msgstr "Professional" 
+
+msgid "add_professional"
+msgstr "Add professional" 
+
+msgid "edit_professional"
+msgstr "Edit professional" 
+
+msgid "type"
+msgstr "Type"
+ 
+msgid "teacher"
+msgstr "Teacher"
+
+msgid "assistant"
+msgstr "Assistant"
+
+msgid "professional_type"
+msgstr "Professional type"
+
+msgid "professional_types"
+msgstr "Professional types"
+
+msgid "add_professional_type"
+msgstr "Add professional type"
+
+msgid "edit_professional_type"
+msgstr "edit professional type"

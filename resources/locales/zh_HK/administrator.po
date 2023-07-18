@@ -1,0 +1,33 @@
+
+msgid "administrator"
+msgstr "管理員資料"
+
+msgid "administrators"
+msgstr "管理員資料"
+
+msgid "add_administrator"
+msgstr "添加管理員"
+
+msgid "edit_administrator"
+msgstr "管理員編輯"
+
+msgid "edit_password"
+msgstr "編輯密碼"
+
+msgid "old_password"
+msgstr "當前密碼"
+
+msgid "new_password"
+msgstr "新密碼"
+
+msgid "confirm_Newpassword"
+msgstr "確認新密碼"
+
+msgid "account_info"
+msgstr "賬戶信息"
+
+msgid "change_password"
+msgstr "更改密碼"
+
+msgid "last_logged_in"
+msgstr "最後登錄時間"

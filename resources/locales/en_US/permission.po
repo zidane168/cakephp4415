@@ -1,0 +1,19 @@
+msgid "p_controller"
+msgstr "p_controller"
+
+msgid "p_model"
+msgstr "p_model"
+
+msgid "permissions"
+msgstr "Permissions"
+
+msgid "permission"
+msgstr "Permission"
+
+msgid "add_permission"
+msgstr "Add Permission"
+
+msgid "edit_permission"
+msgstr "Edit Permission"
+
+ 

@@ -1,0 +1,449 @@
+msgid "good_morning"
+msgstr "早上好， "
+
+msgid "good_afternoon1"
+msgstr "上午好， "
+
+msgid "good_afternoon"
+msgstr "下午好， "
+
+msgid "good_evening"
+msgstr "晚上好， "
+
+msgid "zh_CN_name"
+msgstr "简体中文"
+
+msgid "zh_CN"
+msgstr "简体中文"
+
+msgid "zh_HK_name"
+msgstr "繁體中文"
+
+msgid "zh_HK"
+msgstr "繁體中文"
+
+msgid "en_US_name"
+msgstr "English"
+
+msgid "en_US"
+msgstr "English"
+
+msgid "id"
+msgstr "編號"
+
+msgid "slug"
+msgstr "Slug"
+
+msgid "name"
+msgstr "名稱"
+
+msgid "modified_by"
+msgstr "修改用戶"
+
+msgid "created_by"
+msgstr "創建用戶"
+
+msgid "modified"
+msgstr "修改時間"
+
+msgid "created"
+msgstr "創建時間"
+
+msgid "add"
+msgstr "新增"
+
+msgid "booking"
+msgstr "預約"
+
+msgid "edit"
+msgstr "編輯"
+
+msgid "view"
+msgstr "查看"
+
+msgid "delete"
+msgstr "刪除"
+
+msgid "enabled"
+msgstr "啟用"
+  
+msgid "disabled"
+msgstr "禁用"
+
+msgid "email"
+msgstr "電郵"
+
+msgid "phone"
+msgstr "電話號碼"
+
+msgid "delete_all"
+msgstr "全部刪除"
+
+msgid "operation"
+msgstr "操作"
+
+msgid "submit"
+msgstr "提交"
+
+msgid "reset"
+msgstr "重設"
+
+msgid "export"
+msgstr "匯出CSV"
+
+msgid "export_excel"
+msgstr "匯出Excel"
+
+msgid "please_select"
+msgstr "-- 請選擇 --"
+
+msgid "sign_in"
+msgstr "登入"
+
+msgid "sign_out"
+msgstr "退出"
+
+msgid "remember_me"
+msgstr "記住我"
+
+msgid "password"
+msgstr "密碼"
+
+msgid "user_is_logged_out"
+msgstr "退出成功"
+
+msgid "retrieve_data_successfully"
+msgstr "成功獲取資料"
+
+msgid "retrieve_data_not_successfully"
+msgstr "獲取資料失敗，請重試"
+
+msgid "image_type"
+msgstr "圖片類型"
+
+msgid "image"
+msgstr "圖片"
+
+msgid "status"
+msgstr "狀態"
+
+msgid "all"
+msgstr "全部"
+
+msgid "yes"
+msgstr "是"
+
+msgid "no"
+msgstr "否"
+
+msgid "data_is_saved"
+msgstr "資料已儲存"
+
+msgid "data_is_not_saved"
+msgstr "資料儲存失敗, 請重試"
+
+msgid "export_pdf"
+msgstr "匯出PDF"
+
+msgid "order_image"
+msgstr "圖片排序"
+
+msgid "guideline"
+msgstr "提示"
+
+msgid "delete_message"
+msgstr "請注意！你是否要刪除ID={0}嗎?， 確定刪除後將無法恢復， 是否確定？"
+
+msgid "enabled_message"
+msgstr "您是否要啟用 id={0} ?"
+
+msgid "disabled_message"
+msgstr "您是否要禁用 id={0} ?" 
+
+msgid "data_is_deleted"
+msgstr "資料已刪除"
+
+msgid "google"
+msgstr "谷歌"
+
+msgid "facebook"
+msgstr "臉書"
+
+msgid "add_image"
+msgstr "添加圖片"
+
+msgid "language"
+msgstr "語言"
+
+msgid "languages"
+msgstr "語言一覽"
+
+msgid "object_is_existed"
+msgstr "{0}已存在!"
+
+msgid "login_succeed"
+msgstr "登入成功"
+
+msgid "login_failed"
+msgstr "登入失敗"
+
+msgid "logout_succeed"
+msgstr "退出成功"
+
+msgid "logout_failed"
+msgstr "退出失敗"
+
+msgid "credit_over_load"
+msgstr "超出餘額"
+
+msgid "invalid_data"
+msgstr "資料出錯"
+
+msgid "missing_parameter"
+msgstr "缺少參數: "
+
+msgid "area_code"
+msgstr "區域代碼"
+
+msgid "is_used"
+msgstr "已使用"
+
+msgid "not_yet_used"
+msgstr "未使用"
+
+msgid "description"
+msgstr "描述"
+
+msgid "column_filter"
+msgstr "篩選資料"
+
+msgid "display_all"
+msgstr "顯示所有"
+
+msgid "mr"
+msgstr "先生"
+
+msgid "miss"
+msgstr "小姐"
+
+msgid "mrs"
+msgstr "太太"
+
+msgid "minutes ago"
+msgstr "分鐘前"
+
+msgid "hours ago"
+msgstr "小時前"
+
+msgid "days ago"
+msgstr "日前"
+
+msgid "minutes"
+msgstr "分鐘"
+
+msgid "hours"
+msgstr "小時"
+
+msgid "days"
+msgstr "日"
+
+msgid "checked"
+msgstr "已選中"
+
+msgid "not_check"
+msgstr "尚未選擇" 
+
+msgid "thumbnail"
+msgstr "圖片"
+
+msgid "default_language"
+msgstr "選擇語言"
+
+msgid "rxwork_patient_id"
+msgstr "Rxwork會員ID"
+
+msgid "content"
+msgstr "內容"
+
+msgid "hotline"
+msgstr "熱線"
+
+msgid "fax"
+msgstr "傳真"
+
+msgid "whatsapp"
+msgstr "Whatsapp"
+
+msgid "sms"
+msgstr "SMS短信"
+
+msgid "forgot_password"
+msgstr "忘記密碼"
+
+msgid "register"
+msgstr "登記"
+
+msgid "you_must_relogin_for_the_changes_to_take_effect"
+msgstr "您必須重新登錄將更改生效"
+
+msgid "phone_existed"
+msgstr "此電話號碼已存在"
+
+msgid "phone_not_existed"
+msgstr "此電話號碼不存在"
+
+msgid "email_existed"
+msgstr "此電子郵件已存在"
+
+msgid "email_not_existed"
+msgstr "此電子郵件不存在"
+
+msgid "change_status_enabled"
+msgstr "是否要將ID={0}更改狀態為啟用？"
+
+msgid "change_status_disabled"
+msgstr "是否要將ID={0}更改狀態為禁用？"
+
+msgid "date"
+msgstr "日期"
+
+msgid "date_from"
+msgstr "時間由"
+
+msgid "date_to"
+msgstr "時間至"
+ 
+msgid "sign_in_now"
+msgstr "立即登入"
+
+msgid "telephone"
+msgstr "電話號碼"
+
+msgid "mobile_phone"
+msgstr "手機號碼"
+  
+msgid "code"
+msgstr "代號"
+
+msgid "file"
+msgstr "文件"
+
+msgid "files"
+msgstr "文件一覽"
+
+msgid "username"
+msgstr "用戶名"
+
+msgid "bank_name"
+msgstr "銀行"
+
+msgid "account"
+msgstr "賬戶"
+
+msgid "address"
+msgstr "地址"
+
+msgid "upload_avatar"
+msgstr "上傳頭像"
+
+msgid "upload_file_or_drag_it_here"
+msgstr "上傳文件到此處"
+
+msgid "upload_file"
+msgstr "上傳文件"
+
+msgid "less_than_x_mb_per_file"
+msgstr "每個文件少於{0}MB"
+
+msgid "missing_header"
+msgstr "缺少 Header 參數:"
+
+msgid "phone_is_exists"
+msgstr "電話號碼已存在"
+
+msgid "email_is_exists"
+msgstr "電郵已存在"
+
+msgid "year"
+msgstr "年"
+
+msgid "month"
+msgstr "月"
+
+msgid "data_is_exists"
+msgstr "質料已存在"
+
+msgid "register_successfully"
+msgstr "登記成功"
+
+msgid "title"
+msgstr "標題"
+
+msgid "avatar"
+msgstr "頭像"
+
+msgid "data_was_updated"
+msgstr "數據已更新"
+
+msgid "time"
+msgstr "時間"
+
+msgid "information"
+msgstr "信息"
+
+msgid "ext"
+msgstr "格式"
+
+msgid "file_name"
+msgstr "文件名"
+
+msgid "width"
+msgstr "寬度"
+
+msgid "height"
+msgstr "高度"
+
+msgid "size"
+msgstr "尺寸"
+
+msgid "refresh"
+msgstr "Refresh" 
+
+msgid "change_password_successfully"
+msgstr "換取密碼成功"
+
+msgid "sort"
+msgstr "排序"
+
+msgid "latitude"
+msgstr "緯度"
+
+msgid "longitude"
+msgstr "經度"
+
+msgid "incorrect_manage_data_permission"
+msgstr "這權限不可以操作"  
+
+msgid "collapse_all"
+msgstr "全部縮小"
+
+msgid "expand_all"
+msgstr "全部放開"
+
+msgid "phone_number_is_exist"
+msgstr "電話號碼已存在"
+ 
+msgid "kt"
+msgstr "KT"
+ 
+msgid "payme"
+msgstr "Payme"
+
+msgid "deletion_this_id_is_not_possible_since_the_data_already_exists"
+msgstr "資料已存在，這個ID不能被刪除。"
+
+msgid "nick_name"
+msgstr "暱稱"
+
+msgid "fbemail"
+msgstr "FaceBook 電郵"

@@ -1,0 +1,164 @@
+msgid "setting"
+msgstr "设置"
+
+msgid "settings"
+msgstr "设置一览"
+
+msgid "region"
+msgstr "地域"
+
+msgid "regions"
+msgstr "地域一览"
+
+msgid "district"
+msgstr "地区"
+
+msgid "districts"
+msgstr "地区一览"
+
+msgid "subdistrict"
+msgstr "区域"
+
+msgid "subdistricts"
+msgstr "区域一览"
+
+msgid "add_region"
+msgstr "新增地域"
+
+msgid "edit_region"
+msgstr "编辑地域"
+
+msgid "add_district"
+msgstr "新增地区"
+
+msgid "edit_district"
+msgstr "编辑地区"
+
+msgid "add_subdistrict"
+msgstr "新增小区"
+
+msgid "edit_subdistrict"
+msgstr "编辑小区"
+
+msgid "address"
+msgstr "地址"
+
+msgid "condition_type"
+msgstr "条款与条件类型"
+
+msgid "condition_types"
+msgstr "条款与条件类型一览"
+
+msgid "add_condition_type"
+msgstr "新增条款与条件类型"
+
+msgid "edit_condition_type"
+msgstr "编辑条款与条件类型"
+
+msgid "condition"
+msgstr "条款与条件"
+
+msgid "conditions"
+msgstr "条款与条件一览"
+
+msgid "add_condition"
+msgstr "新增条款与条件"
+
+msgid "edit_condition"
+msgstr "编辑条款与条件"
+
+msgid "payment_type"
+msgstr "支付方式"
+
+msgid "payment_types"
+msgstr "支付方式一览"
+
+msgid "add_payment_type"
+msgstr "新增付款方式"
+
+msgid "edit_payment_type"
+msgstr "编辑付款方式"
+
+msgid "relationship"
+msgstr "关系"
+
+msgid "relationships"
+msgstr "关系一览"
+
+msgid "add_relationship"
+msgstr "新增关系"
+
+msgid "edit_relationship"
+msgstr "编辑关系"
+
+msgid "emergency_contacts"
+msgstr "紧急联系方式"
+
+msgid "emergency_contact"
+msgstr "紧急联系方式"
+
+msgid "add_emergency_contact"
+msgstr "新增紧急联系方式"
+
+msgid "edit_emergency_contact"
+msgstr "编辑紧急联系方式"
+
+msgid "feedback"
+msgstr "反馈"
+
+msgid "feedbacks"
+msgstr "反馈一览"
+
+msgid "add_feedback"
+msgstr "新增反馈"
+
+msgid "edit_feedback"
+msgstr "编辑反馈"
+
+msgid "cidc_holidays"
+msgstr "假期"
+
+msgid "cidc_holiday"
+msgstr "假期"
+
+msgid "add_cidc_holiday"
+msgstr "新增假期"
+
+msgid "edit_cidc_holiday"
+msgstr "编辑假期"
+
+msgid "abouts"
+msgstr "简介"
+
+msgid "about"
+msgstr "简介"
+
+msgid "add_about"
+msgstr "新增简介"
+
+msgid "edit_about"
+msgstr "编辑简介"
+
+msgid "terms"
+msgstr "条款"
+
+msgid "term"
+msgstr "条款"
+
+msgid "add_term"
+msgstr "新增条款"
+
+msgid "edit_term"
+msgstr "编辑条款"
+
+msgid "contacts"
+msgstr "联系方式"
+
+msgid "contact"
+msgstr "联系方式"
+
+msgid "add_contact"
+msgstr "新增联系方式"
+
+msgid "edit_contact"
+msgstr "编辑联系方式"

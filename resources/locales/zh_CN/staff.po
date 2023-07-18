@@ -1,0 +1,86 @@
+msgid "staff"
+msgstr "职员"
+
+msgid "staffs"
+msgstr "职员一览"
+
+msgid "add_staff"
+msgstr "新增职员"
+
+msgid "edit_staff"
+msgstr "编辑职员"
+
+msgid "professional"
+msgstr "导师"
+
+msgid "professionals"
+msgstr "导师一览"
+
+msgid "add_professional"
+msgstr "新增导师"
+
+msgid "edit_professional"
+msgstr "编辑导师"
+
+msgid "type"
+msgstr "类型"
+
+msgid "teacher"
+msgstr "主教"
+
+msgid "assistant"
+msgstr "助教"
+
+msgid "album"
+msgstr "相冊"
+
+msgid "albums"
+msgstr "相册一览"
+
+msgid "add_album"
+msgstr "新增相冊"
+
+msgid "edit_album"
+msgstr "编辑相册"
+
+msgid "video"
+msgstr "视频"
+
+msgid "videos"
+msgstr "视频一览"
+
+msgid "add_video"
+msgstr "新增视频"
+
+msgid "edit_video"
+msgstr "编辑视频"
+
+msgid "reason"
+msgstr "原因"
+
+msgid "reschedule_history"
+msgstr "调堂记录"
+
+msgid "reschedule_histories"
+msgstr "调堂记录一览"
+
+msgid "add_reschedule_history"
+msgstr "新增调堂记录"
+
+msgid "edit_reschedule_history"
+msgstr "编辑调堂记录"
+
+msgid "sick_leave_history"
+msgstr "学生病假记录"
+
+msgid "sick_leave_histories"
+msgstr "学生病假记录一览"
+
+msgid "add_sick_leave_history"
+msgstr "新增学生病假记录"
+
+msgid "edit_sick_leave_history"
+msgstr "编辑学生病假记录"
+
+msgid "order_id"
+msgstr "Order Id"

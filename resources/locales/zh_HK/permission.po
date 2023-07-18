@@ -1,0 +1,26 @@
+msgid "p_controller"
+msgstr "權限控制"
+
+msgid "p_model"
+msgstr "權限類型"
+
+msgid "permissions"
+msgstr "權限一覽"
+
+msgid "permission"
+msgstr "權限"
+
+msgid "add_permission"
+msgstr "添加新權限"
+
+msgid "edit_permission"
+msgstr "權限編輯"
+
+msgid "p_controller"
+msgstr "權限控制"
+
+msgid "p_model"
+msgstr "權限類型"
+
+msgid "action"
+msgstr "操作"

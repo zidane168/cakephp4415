@@ -1,0 +1,33 @@
+
+msgid "administrator"
+msgstr "Administrator"
+
+msgid "administrators"
+msgstr "Administrators"
+
+msgid "add_administrator"
+msgstr "Add Administrator"
+
+msgid "edit_administrator"
+msgstr "Edit Administrator"
+
+msgid "edit_password"
+msgstr "Edit Password"
+
+msgid "old_password"
+msgstr "Current Password"
+
+msgid "new_password"
+msgstr "New Password"
+
+msgid "confirm_Newpassword"
+msgstr "Confirm Password"
+
+msgid "account_info"
+msgstr "Account Info"
+
+msgid "change_password"
+msgstr "Change Password"
+
+msgid "last_logged_in"
+msgstr "Last logged in"
